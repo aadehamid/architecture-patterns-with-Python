@@ -1,0 +1,4 @@
+#%%
+
+class Allocate:
+    pass

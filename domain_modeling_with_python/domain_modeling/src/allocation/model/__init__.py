@@ -1,1 +1,1 @@
-from .model import OrderLine, Batch
+from .model import OrderLine, Batch, allocate, OutOfStock

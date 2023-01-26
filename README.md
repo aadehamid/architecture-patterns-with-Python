@@ -4,7 +4,7 @@ The project in this repository follows the fantastic book [Architecture Patterns
 
 ## Section 1
 
-### Domain Modeling: A Conversation with Business Stakeholder on the Allocation System
+### Domain Modeling: A Conversation with Business Stakeholder on the Allocation System to create services for
 
 A product is identified by a SKU, pronounced “skew,” which is short for stock-keeping unit. Customers place orders. An order is identified by an order reference and comprises multiple order lines, where each line has a SKU and a quantity. For example:
 

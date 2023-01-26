@@ -1,6 +1,5 @@
 # architecture-patterns-with-Python
 
-The project in this repository follows the fantastic book [Architecture Patterns with Python by Harry J.W Percival and Bob Gregory](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/)
 
 ## Section 1
 

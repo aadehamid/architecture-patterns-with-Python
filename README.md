@@ -6,7 +6,7 @@ A furniture business asked for an exciting new way of allocating stock. Until no
 Here is what they want to achieve with the new system: if we have a system that can keep track of all our shipments and when they’re due to arrive, we can treat the goods on those ships as real stock and part of our inventory, just with slightly longer lead times. Fewer goods will appear to be out of stock, we’ll sell more, and the business can save money by keeping lower inventory in the domestic warehouse.
 
 
-## Section 1: A conversation with a doamin expert about the allocation system to understand the requirements, which will be an input into our domain modeling.
+## Section 1: A conversation with a domain expert about the allocation system to understand the requirements, which will be an input into domain modeling.
 
 ### Workflow Description
 A product is identified by a SKU, pronounced “skew,” which is short for stock-keeping unit. Customers place orders. An order is identified by an order reference and comprises multiple order lines, where each line has a SKU and a quantity. For example:
